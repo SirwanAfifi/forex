@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="forex.csproj" t="IncludeRecursive" />
+      <e p="forex.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp1.1" t="Include">
+            <e p="forex.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_forex.307039037.00" t="ExcludeRecursive" />
+  </component>
+</project>

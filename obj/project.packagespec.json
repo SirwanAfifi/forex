@@ -1,0 +1,30 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sirwan/Desktop/Shaho/forex/forex.csproj",
+    "projectName": "forex",
+    "projectPath": "/Users/sirwan/Desktop/Shaho/forex/forex.csproj",
+    "outputPath": "/Users/sirwan/Desktop/Shaho/forex/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[1.1.2, )",
+          "autoReferenced": true
+        }
+      }
+    }
+  }
+}

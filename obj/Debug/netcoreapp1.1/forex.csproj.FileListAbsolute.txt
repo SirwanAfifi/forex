@@ -1,0 +1,8 @@
+/Users/sirwan/Desktop/Shaho/forex/bin/Debug/netcoreapp1.1/forex.deps.json
+/Users/sirwan/Desktop/Shaho/forex/bin/Debug/netcoreapp1.1/forex.runtimeconfig.json
+/Users/sirwan/Desktop/Shaho/forex/bin/Debug/netcoreapp1.1/forex.runtimeconfig.dev.json
+/Users/sirwan/Desktop/Shaho/forex/obj/Debug/netcoreapp1.1/forex.AssemblyInfo.cs
+/Users/sirwan/Desktop/Shaho/forex/bin/Debug/netcoreapp1.1/forex.dll
+/Users/sirwan/Desktop/Shaho/forex/bin/Debug/netcoreapp1.1/forex.pdb
+/Users/sirwan/Desktop/Shaho/forex/obj/Debug/netcoreapp1.1/forex.dll
+/Users/sirwan/Desktop/Shaho/forex/obj/Debug/netcoreapp1.1/forex.pdb
